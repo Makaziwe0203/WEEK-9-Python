@@ -1,6 +1,6 @@
 
-import marth_operations
+import math_operations
 
-print(marth_operations.add(5, 2))
+print(math_operations.add(5, 2))
 
-print(marth_operations.subtract(5, 2))
+print(math_operations.subtract(5, 2))
